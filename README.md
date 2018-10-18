@@ -4,7 +4,9 @@ This game is currently getting worked on. This game is being built with java, i 
 
 # TO DO
 • ADD KEYINPUT
+
 • ADD MOUSE INPUT
+
 • MAKE MAIN MENU
 
 LOADS MORE JUST CANT LIST ALL OF THEM
